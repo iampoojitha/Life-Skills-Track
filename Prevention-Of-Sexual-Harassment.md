@@ -20,7 +20,7 @@
 
 ## 4. How to handle cases of harassment?
 
-- Warn then to stop
+- Warn them to stop
 - If they do not stop then Report harassment to supervisor.
 
 ## 5. How to behave appropriately?
